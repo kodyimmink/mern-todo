@@ -1,18 +1,13 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-/mern-todo-app/node_modules
-/server/node_modules
-
-# testing
-/coverage
+node_modules/
 
 # production
-/mern-todo-app/build
+build/
 
 # private
-/mern-todo-app/.env
-/server/.env
+.env
 
 # misc
 .DS_Store
