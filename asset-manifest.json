@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/mern-todo-app/static/css/main.a4842e09.chunk.css",
+    "main.js": "/mern-todo-app/static/js/main.e08c9912.chunk.js",
+    "main.js.map": "/mern-todo-app/static/js/main.e08c9912.chunk.js.map",
+    "runtime-main.js": "/mern-todo-app/static/js/runtime-main.d57554f4.js",
+    "runtime-main.js.map": "/mern-todo-app/static/js/runtime-main.d57554f4.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/mern-todo-app/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f3b82163.chunk.js": "/mern-todo-app/static/js/2.f3b82163.chunk.js",
+    "static/js/2.f3b82163.chunk.js.map": "/mern-todo-app/static/js/2.f3b82163.chunk.js.map",
+    "index.html": "/mern-todo-app/index.html",
+    "precache-manifest.5d7e3e94194243b8241d1d1491332a06.js": "/mern-todo-app/precache-manifest.5d7e3e94194243b8241d1d1491332a06.js",
+    "service-worker.js": "/mern-todo-app/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/mern-todo-app/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.a4842e09.chunk.css.map": "/mern-todo-app/static/css/main.a4842e09.chunk.css.map",
+    "static/js/2.f3b82163.chunk.js.LICENSE.txt": "/mern-todo-app/static/js/2.f3b82163.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/mern-todo-app/static/media/logo.1df80df1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d57554f4.js",
+    "static/css/2.47e06e2e.chunk.css",
+    "static/js/2.f3b82163.chunk.js",
+    "static/css/main.a4842e09.chunk.css",
+    "static/js/main.e08c9912.chunk.js"
+  ]
+}
